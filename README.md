@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue no Dev em Dobro!
+  ### Aprendendo Programação!
  
 <div> 
   <a href="https://www.youtube.com/channel/UC5pZeUV4bSGT5maSZycUwkA/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
